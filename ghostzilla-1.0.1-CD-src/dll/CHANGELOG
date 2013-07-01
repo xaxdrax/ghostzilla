@@ -1,0 +1,6 @@
+static volatile char ghostzilla_identification[] =
+
+"version:1.0.1-40 (open source)"; /*
+
+
+*/

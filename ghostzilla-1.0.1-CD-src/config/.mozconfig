@@ -1,0 +1,13 @@
+ac_add_options --disable-debug
+ac_add_options --disable-tests
+ac_add_options --disable-mailnews
+ac_add_options --disable-ldap
+ac_add_options --disable-freetype2
+ac_add_options --disable-postscript
+ac_add_options --disable-xprint
+ac_add_options --disable-jsd
+ac_add_options --disable-bidi
+ac_add_options --disable-accessibility
+ac_add_options --enable-plaintext-editor-only
+ac_add_options --disable-mathml
+ac_add_options --enable-crypto
